@@ -56,6 +56,8 @@ ul.list-style-none li a {
    margin-top: 5px;
 }
 
-.w-30px {
-   width: 30px;
+.thumbnail {
+   width: 50px;
+   height: 50px;
+   margin-right: 10px;
 }
